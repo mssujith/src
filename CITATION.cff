@@ -12,10 +12,10 @@ authors:
   - family-names: "Bashkardin"
     given-names: "Vadim"
 title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
-journal: "Journal of Open Research Software"
-volume: "1"
-issue: "1"
-year: 2013
+version: 4.2
+volume: 1
+issue: 1
+date-released: 2025-09-09
 doi: "10.5334/jors.ag"
 url; "ahay.org"
 preferred-citation:
@@ -33,8 +33,8 @@ preferred-citation:
       given-names: "Vadim"
   title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
   journal: "Journal of Open Research Software"
-  volume: "1"
-  issue: "1"
+  volume: 1
+  issue: 1
   year: 2013
   doi: "10.5334/jors.ag"
 
