@@ -1,18 +1,22 @@
-Fomel, S., Sava, P., Vlad, I., Liu, Y. and Bashkardin, V., 2013. Madagascar:
-open-source software project for multidimensional data analysis and
-reproducible computational experiments. Journal of Open Research
-Software 1(1):e8, DOI: http://dx.doi.org/10.5334/jors.ag
-
-@Article{m8r,
-  author = {S. Fomel and P. Sava and I. Vlad and Y. Liu and
-                 V. Bashkardin},
-  title = {Madagascar: open-source software project for
-              multidimensional data analysis and reproducible 
-              computational experiments},
-  journal = 	 {Journal of Open Research Software},
-  year = 	 2013,
-  volume = 	 1,
-  number = 	 1,
-  pages = 	 {e8},
-  doi =      {http://dx.doi.org/10.5334/jors.ag}}
+cff-version: 1.2.0
+message: "If you use Madagascar in your research, please cite the following paper."
+authors:
+  - family-names: Fomel
+    given-names: Sergey
+  - family-names: Sava
+    given-names: Paul
+  - family-names: Vlad
+    given-names: Ioan
+  - family-names: Liu
+    given-names: Yang
+  - family-names: Bashkardin
+    given-names: Vadimir
+title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
+journal: "Journal of Open Research Software"
+year: 2013
+volume: 1
+issue: 1
+pages: e8
+doi: "10.5334/jors.ag"
+type: article
 
