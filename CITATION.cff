@@ -1,22 +1,22 @@
 cff-version: 1.2.0
 message: "If you use Madagascar in your research, please cite the following paper."
 authors:
-  - family-names: Fomel
-    given-names: Sergey
-  - family-names: Sava
-    given-names: Paul
-  - family-names: Vlad
-    given-names: Ioan
-  - family-names: Liu
-    given-names: Yang
-  - family-names: Bashkardin
-    given-names: Vadimir
+  - family-names: "Fomel"
+    given-names: "Sergey"
+  - family-names: "Sava"
+    given-names: "Paul"
+  - family-names: "Vlad"
+    given-names: "Ioan"
+  - family-names: "Liu"
+    given-names: "Yang"
+  - family-names: "Bashkardin"
+    given-names: "Vadim"
 title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
-journal: "Journal of Open Research Software"
-year: 2013
-volume: 1
-issue: 1
-pages: e8
-doi: "10.5334/jors.ag"
 type: article
+journal: "Journal of Open Research Software"
+volume: "1"
+issue: "1"
+pages: "e8"
+year: 2013
+doi: "10.5334/jors.ag"
 
