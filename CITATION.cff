@@ -17,7 +17,7 @@ volume: 1
 issue: 1
 date-released: 2025-09-09
 doi: "10.5334/jors.ag"
-url; "ahay.org"
+url: "ahay.org"
 preferred-citation:
   type: article
   authors:
