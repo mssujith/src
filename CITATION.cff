@@ -13,6 +13,7 @@ authors:
     given-names: "Vadim"
 title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
 journal: "Journal of Open Research Software"
+type: article
 volume: "1"
 issue: "1"
 year: 2013
