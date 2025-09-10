@@ -10,7 +10,7 @@ authors:
   - family-names: "Liu"
     given-names: "Yang"
   - family-names: "Bashkardin"
-    given-names: "Vadim"
+    given-names: "Vadimir"
 title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
 version: 4.2
 volume: 1
@@ -30,11 +30,11 @@ preferred-citation:
     - family-names: "Liu"
       given-names: "Yang"
     - family-names: "Bashkardin"
-      given-names: "Vadim"
+      given-names: "Vadimir"
   title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
   journal: "Journal of Open Research Software"
   volume: 1
   issue: 1
   year: 2013
-  doi: "10.5334/jors.ag"
-
+  doi: "http://dx.doi.org/10.5334/jors.ag"
+  start: e8
