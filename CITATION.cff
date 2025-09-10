@@ -12,11 +12,9 @@ authors:
   - family-names: "Bashkardin"
     given-names: "Vadim"
 title: "Madagascar: open-source software project for multidimensional data analysis and reproducible computational experiments"
-type: article
 journal: "Journal of Open Research Software"
 volume: "1"
 issue: "1"
-pages: "e8"
 year: 2013
 doi: "10.5334/jors.ag"
 
