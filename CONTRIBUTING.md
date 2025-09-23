@@ -40,6 +40,7 @@ We welcome contributions of all kinds: new code, bug fixes, documentation improv
   - Ensure your code builds and runs on Linux/macOS.
 
 ### 4. Documentation
+- Contributions to tutorials, examples, and wiki pages are highly valued
 - Document new functions, parameters, and workflows.
 - Use clear explanations and examples.
 - For reproducible research scripts, include references and data details where appropriate.
