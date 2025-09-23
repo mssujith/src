@@ -48,7 +48,55 @@ Additional information:
 
 ## Compiling, Building, Installing and Testing
 
-See the INSTALL.txt document for build instructions.
+See the INSTALL.txt document for detailed build [instructions](https://ahay.org/wiki/Installation).
+
+### Quick Start
+Follow these steps to get Madagascar up and running:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ahay/src.git
+   cd src
+   ```
+2. Install dependencies
+   * On Linux/macOS
+     ```bash
+     ./configure --prefix=~/RSFROOT/
+     make
+     sudo make install
+     ```
+   * On windows see the detailed instructions
+3. User setup
+    ```bash
+    source ~/RSFSRC/share/madagascar/etc/env.sh
+    ```
+    Add this to ```$HOME/.bashrc``` or ```$HOME/.profile```
+4. Setting DATAPATH
+   ```bash
+   mkdir ~/RSTDATA/
+   export DATAPATH=~/RSFDATA
+   ```
+   You should also add the last line to ```$HOME/.bashrc``` or ```$HOME/.profile```
+5. Testing
+   ```bash
+   sfspike n1=1000 k1=300 > spike.rsf
+   sfattr < sfspike
+   ```
+   You should see the following output
+   ```bash
+    ******************************************* 
+         rms =     0.0316228 
+        mean =         0.001 
+      2-norm =             1 
+    variance =         0.001 
+     std dev =     0.0316228 
+         max =             1 at 300 
+         min =             0 at 1 
+    nonzero samples = 1 
+      total samples = 1000 
+    ******************************************* 
+   ```
+You’re now ready to explore Madagascar, run reproducible workflows, and start contributing  
 
 ## History
 
