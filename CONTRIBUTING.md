@@ -37,13 +37,13 @@ We welcome contributions of all kinds: new code, bug fixes, documentation improv
   - Keep code formatting consistent with the existing files.
 - **Testing:**
   - Run existing test suites before submitting changes.
-  - Add regression tests whenever possible.
   - Ensure your code builds and runs on Linux/macOS.
 
 ### 4. Documentation
 - Document new functions, parameters, and workflows.
 - Use clear explanations and examples.
 - For reproducible research scripts, include references and data details where appropriate.
+- Jupyter notebook examples are also acceptable (see examples at (https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb)[https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb]
 
 ---
 
@@ -54,7 +54,6 @@ We welcome contributions of all kinds: new code, bug fixes, documentation improv
 3. Make changes, keeping them focused and atomic.
 4. Test your changes thoroughly.
 5. Push to your fork and open a PR.
-6. Participate in the review process.
 
 ---
 
