@@ -43,7 +43,7 @@ We welcome contributions of all kinds: new code, bug fixes, documentation improv
 - Document new functions, parameters, and workflows.
 - Use clear explanations and examples.
 - For reproducible research scripts, include references and data details where appropriate.
-- Jupyter notebook examples are also acceptable (see examples at (https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb)[https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb]
+- Jupyter notebook examples are also acceptable (see examples at [https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb](https://github.com/ahay/src/blob/master/book/tccs/lowrank/lowrank.ipynb)
 
 ---
 
